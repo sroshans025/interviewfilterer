@@ -1,12 +1,8 @@
-__pycache__
+__pycache__/
 *.pyc
+uploads/
 .env
 .venv
-venv
+venv/
 *.pt
 *.bin
-*.pkl
-*.h5
-models/
-datasets/
-node_modules
