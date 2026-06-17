@@ -1,0 +1,21 @@
+Charlie Smith
+Email: charlie.smith@email.com
+Phone: (555) 728-1934
+Location: New York, NY
+Education: B.A. in Communications, NYU
+
+Summary:
+Digital Marketing Manager with 5 years of experience driving online growth. Skilled in Search Engine Optimization (SEO), copywriting, social media ads management, and data analysis via Google Analytics.
+
+Skills:
+SEO, Content Marketing, Google Analytics, Copywriting, Social Media Marketing, Email Campaigns, Graphic Design, HTML, CSS, Microsoft Excel
+
+Experience:
+Marketing Manager | GrowthBrands (2021 - Present)
+- Developed and executed comprehensive SEO strategy, boosting organic search traffic by 65%.
+- Analyzed campaign metrics and traffic data in Google Analytics to optimize ad spend.
+- Wrote high-converting landing page copywriting and marketing email templates.
+
+Marketing Associate | CreativeAgency (2019 - 2021)
+- Managed brand social media channels, growing follower counts by 40%.
+- Designed visual banners and promotional assets using Photoshop and Figma.

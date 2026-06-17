@@ -1,0 +1,21 @@
+Bob Jenkins
+Email: bob.jenkins@email.com
+Phone: (555) 482-9102
+Location: Austin, TX
+Education: B.S. in Software Engineering, UT Austin
+
+Summary:
+Software Developer with 4 years of experience specializing in backend architectures, primarily with Java and SQL. Comfortable writing helper scripts in Python and seeking to pivot further into Machine Learning.
+
+Skills:
+Java, Spring Boot, SQL, PostgreSQL, REST API, Git, Python, Docker, HTML, CSS, JavaScript, Agile, Linux
+
+Experience:
+Software Engineer | Enterprise Solutions (2022 - Present)
+- Designed and built secure REST APIs using Java and Spring Boot.
+- Maintained database schemas and wrote optimized SQL queries on PostgreSQL.
+- Wrote python utility scripts to parse logs and automate local testing suites.
+
+Backend Developer | StartupHub (2020 - 2022)
+- Collaborated in an Agile team of 6 engineers to deliver e-commerce modules.
+- Managed source code versioning using Git and built Docker containers for staging tests.

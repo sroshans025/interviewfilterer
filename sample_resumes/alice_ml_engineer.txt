@@ -1,0 +1,22 @@
+Alice Vance
+Email: alice.vance@email.com
+Phone: (555) 019-2834
+Location: San Francisco, CA
+Education: M.S. in Computer Science, Stanford University
+
+Summary:
+Senior Machine Learning Engineer with 6 years of industry experience building and deploying deep learning model architectures. Proven expertise in natural language processing (NLP), PyTorch, and containerizing ML inference pipelines.
+
+Skills:
+Python, PyTorch, TensorFlow, Machine Learning, Deep Learning, SQL, Docker, Kubernetes, AWS, FastAPI, CI/CD, Git, NLP, HuggingFace Transformers
+
+Experience:
+Lead ML Engineer | TechCorp (2022 - Present)
+- Trained and optimized custom transformer models using PyTorch, reducing inference latency by 40%.
+- Designed and built ML inference APIs serving 10M+ daily requests, containerized using Docker and deployed on AWS.
+- Established MLOps frameworks using MLflow for tracking experimental runs, parameters, and drift detection.
+
+Machine Learning Engineer | DataSoft (2020 - 2022)
+- Built NLP text parsing pipeline that processed unstructured data with 94% accuracy.
+- Conducted training runs for classification models and deployed them via FastAPI REST endpoints.
+- Managed database queries and integrations using SQL and PostgreSQL.

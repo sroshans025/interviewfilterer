@@ -1,0 +1,124 @@
+[
+  {
+    "run_id": "run_1718010000",
+    "timestamp": "2026-06-12 10:15:30",
+    "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+    "version_tag": "v1.2.0",
+    "batch_size": 5,
+    "avg_score": 73.4,
+    "baseline_score": 72.0,
+    "drift_deviation_pct": 1.9,
+    "drift_detected": false,
+    "latency_avg_ms": 140,
+    "total_tokens": 12400,
+    "candidates": []
+  },
+  {
+    "run_id": "run_1718110000",
+    "timestamp": "2026-06-13 14:22:10",
+    "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+    "version_tag": "v1.2.0",
+    "batch_size": 8,
+    "avg_score": 74.1,
+    "baseline_score": 72.0,
+    "drift_deviation_pct": 2.9,
+    "drift_detected": false,
+    "latency_avg_ms": 135,
+    "total_tokens": 19800,
+    "candidates": []
+  },
+  {
+    "run_id": "run_1718210000",
+    "timestamp": "2026-06-14 09:05:45",
+    "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+    "version_tag": "v1.2.0",
+    "batch_size": 4,
+    "avg_score": 70.8,
+    "baseline_score": 72.0,
+    "drift_deviation_pct": 1.7,
+    "drift_detected": false,
+    "latency_avg_ms": 145,
+    "total_tokens": 9800,
+    "candidates": []
+  },
+  {
+    "run_id": "run_1718310000",
+    "timestamp": "2026-06-15 16:40:22",
+    "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+    "version_tag": "v1.2.0",
+    "batch_size": 12,
+    "avg_score": 72.5,
+    "baseline_score": 72.0,
+    "drift_deviation_pct": 0.7,
+    "drift_detected": false,
+    "latency_avg_ms": 128,
+    "total_tokens": 28400,
+    "candidates": []
+  },
+  {
+    "run_id": "run_1781680440",
+    "timestamp": "2026-06-17 12:44:00",
+    "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+    "version_tag": "v1.2.0",
+    "batch_size": 1,
+    "avg_score": 0.0,
+    "baseline_score": 72.0,
+    "drift_deviation_pct": 100.0,
+    "drift_detected": true,
+    "latency_avg_ms": 1170,
+    "total_tokens": 555,
+    "candidates": [
+      {
+        "name": "ROSHAN S",
+        "score": 0.0,
+        "latency_ms": 1170,
+        "token_count": 555,
+        "confidence": 0.5
+      }
+    ]
+  },
+  {
+    "run_id": "run_1781681596",
+    "timestamp": "2026-06-17 13:03:16",
+    "model_name": "Keyword-Boosted Cosine Sim (Standard)",
+    "version_tag": "v1.0.0-standard",
+    "batch_size": 1,
+    "avg_score": 65.3,
+    "baseline_score": 72.0,
+    "drift_deviation_pct": 9.3,
+    "drift_detected": false,
+    "latency_avg_ms": 1,
+    "total_tokens": 525,
+    "candidates": [
+      {
+        "name": "ROSHAN S",
+        "score": 65.3,
+        "latency_ms": 1,
+        "token_count": 525,
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "run_id": "run_1781682961",
+    "timestamp": "2026-06-17 13:26:01",
+    "model_name": "Keyword-Boosted Cosine Sim (Standard)",
+    "version_tag": "v1.0.0-standard",
+    "batch_size": 1,
+    "avg_score": 65.3,
+    "baseline_score": 72.0,
+    "drift_deviation_pct": 9.3,
+    "drift_detected": false,
+    "latency_avg_ms": 2,
+    "total_tokens": 525,
+    "candidates": [
+      {
+        "name": "ROSHAN S",
+        "score": 65.3,
+        "latency_ms": 2,
+        "token_count": 525,
+        "confidence": 0.8
+      }
+    ]
+  }
+]
